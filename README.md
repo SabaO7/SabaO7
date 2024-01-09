@@ -1,3 +1,5 @@
+![Saba Oji Banner](https://github.com/SabaO7/NLP-python/blob/main/path/to/your/banner.jpeg?raw=true)
+
 ### Hi there 👋
 
 
@@ -15,14 +17,20 @@ Outside of work, I'm continuously honing my coding skills and keeping abreast of
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabaO7&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabaO7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 💻 Technologies & Tools
 
+![](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=Python)
+![](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=JavaScript)
+![](https://img.shields.io/badge/Code-HTML5-orange?style=flat-square&logo=HTML5)
+![](https://img.shields.io/badge/Code-CSS3-blue?style=flat-square&logo=CSS3)
+![](https://img.shields.io/badge/Code-Node.js-green?style=flat-square&logo=Node.js)
+![](https://img.shields.io/badge/Code-React-blue?style=flat-square&logo=React)
+![](https://img.shields.io/badge/Code-Redux-purple?style=flat-square&logo=Redux)
+![](https://img.shields.io/badge/Tool-MySQL-blue?style=flat-square&logo=MySQL)
+![](https://img.shields.io/badge/Tool-PostgreSQL-blue?style=flat-square&logo=PostgreSQL)
+![](https://img.shields.io/badge/Tool-Jira-blue?style=flat-square&logo=Jira)
+![](https://img.shields.io/badge/Tool-R-brightgreen?style=flat-square&logo=R)
 
-### 💻 Technologies and Tools
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 
 
 <!--
