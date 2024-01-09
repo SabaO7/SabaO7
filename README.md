@@ -1,4 +1,4 @@
-![Saba Oji Banner](https://github.com/SabaO7/NLP-python/blob/main/path/to/your/banner.jpeg?raw=true)
+![Saba Oji Banner](https://github.com/SabaO7/SabaO7/blob/main/banner.jpeg?raw=true)
 
 ### Hi there 👋
 
