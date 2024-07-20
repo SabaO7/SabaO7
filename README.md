@@ -5,7 +5,7 @@
 
 I'm Saba, a dedicated and passionate Product Manager with a keen interest in diving deep into the world of coding. My professional journey is marked by a constant pursuit of knowledge and proficiency in the ever-evolving tech landscape.
 
-My specialty lies in the realm of Artificial Intelligence, particularly in Natural Language Processing (NLP). I am fascinated by the power of AI to understand, interpret, and respond to human language in meaningful ways. This passion drives me to explore the latest advancements in the field and integrate them into innovative product solutions.
+My specialty lies in the realm of Generative Artificial Intelligence, particularly in Natural Language Processing (NLP). I am fascinated by the power of AI to understand, interpret, and respond to human language in meaningful ways. This passion drives me to explore the latest advancements in the field and integrate them into innovative product solutions.
 
 As a Product Manager, I blend my technical knowledge with strategic thinking to guide projects from conception to launch, ensuring that they not only meet but exceed user expectations. My goal is to bridge the gap between complex AI/NLP technologies and user-friendly product experiences, making advanced technology accessible and useful for everyone.
 
